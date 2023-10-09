@@ -9,7 +9,7 @@ idade = Number(prompt('Qual é a sua idade?'));
 console.log(`
 O tipo da variável nome é: ${typeof nome};
 O tipo da variável idade é: ${typeof idade}.
-`)
+`);
 
 console.log(`
 Olá, ${nome}, você tem ${idade} anos.
